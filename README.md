@@ -1,7 +1,13 @@
 # Projeto-01
 
-Projeto de casdastro de Endereco para uma plataforma de e-commerce!
+Projeto de cadastro de Endereço para uma plataforma de E-commerce!
 
-A opcao de buscar o CEP so aceita numero, e o usuario deve colocar o numero e pode inserir algum complemento.
 
-Usando bootstrap e api viacep!
+
+A opção de buscar o CEP só aceita numero, e o usuário deve colocar o numero e pode inserir algum complemento.
+
+
+
+Usando bootstrap e api viacep, HTML, JavaScript e CSS.
+
+#html #javascript #css #cubosacademy
